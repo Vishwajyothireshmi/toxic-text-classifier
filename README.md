@@ -6,7 +6,7 @@ This project aims to detect toxic comments using a fine-tuned BERT model. It lev
 
 ## 📁 Dataset
 
-The dataset used is in JSON format (`z639_assignment1_training.json`), consisting of multiple votes per comment determining its toxicity. A majority voting mechanism is applied to assign the final label (`is_toxic`).
+The dataset used is in JSON format, consisting of multiple votes per comment determining its toxicity. A majority voting mechanism is applied to assign the final label (`is_toxic`).
 
 ---
 
